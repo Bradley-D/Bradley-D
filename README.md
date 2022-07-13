@@ -2,7 +2,8 @@
 
 ## 💫 About Me:
 - 📫 I am currently available for hire, you can contact me via LinkedIn after you take a look my profile to see if you like the cut of my jib.
-- 🤔 I am currently sharpening my skills in the JS world.<br>I am currently working on a personal project.
+- 🤔 I am currently sharpening my skills in the JS world.
+- 😄 I am currently working on a personal project.
 - ⚡ Fun fact: Github language stats do not look right, where are all the others?
 
 ## 🌐 Socials:
