@@ -1,4 +1,4 @@
-### Hi there 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+### Hi, I am Bradley Davis <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
 ## 🌐 Socials:
