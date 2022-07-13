@@ -1,7 +1,7 @@
 # It's me Bradley Davis
 
 ## 💫 About Me:
-- 📫 I am available for hire, you can contact me via LinkedIn after you take a look my profile to see if you like the cut of my jib.
+- 📫 I am available for hire, you can contact me via LinkedIn if you like the cut of my jib.
 - 🤔 I am sharpening my skills in the JS world.
 - 😄 I am working on a personal project.
 
