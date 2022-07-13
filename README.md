@@ -1,10 +1,9 @@
 # It's me Bradley Davis
 
 ## 💫 About Me:
-- 📫 I am currently available for hire, you can contact me via LinkedIn after you take a look my profile to see if you like the cut of my jib.
-- 🤔 I am currently sharpening my skills in the JS world.
-- 😄 I am currently working on a personal project.
-- ⚡ Fun fact: Github language stats do not look right, where are all the others?
+- 📫 I am available for hire, you can contact me via LinkedIn after you take a look my profile to see if you like the cut of my jib.
+- 🤔 I am sharpening my skills in the JS world.
+- 😄 I am working on a personal project.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brad_d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bradleyjdavis) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/brad_j_davis) 
