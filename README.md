@@ -1,7 +1,7 @@
 # It's me Bradley Davis
 
 ## 💫 About Me:
-- 📫 I can be contacted me via LinkedIn if you like the cut of my jib.
+- 📫 I can be contacted via LinkedIn if you like the cut of my jib.
 - 🤔 I am sharpening my skills in the JS world.
 - 😄 I am working on a personal project.
 
