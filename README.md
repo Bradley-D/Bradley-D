@@ -1,13 +1,13 @@
 # It's me Bradley Davis :v: 
 
-## About Me :coffee: :mountain_bicyclist: :bicyclist: :snowboarder:
+## About Me:
 Most of my free time is spent drinking coffee and riding bikes around the Gold Coast where I live or thinking about another snow adventure.
 
 - Software Engineer at [CultureAmp](https://www.cultureamp.com/).
 - Learning not to hate TypeScript.
 - Building a personal cycling event application for South East Queensland cyclists.
 
-## How to reach me :mailbox:
+## Reach Out:
 Slide into my DMs on [LinkedIn](https://www.linkedin.com/in/bradleyjdavis) if you like the cut of my jib.
 
 
