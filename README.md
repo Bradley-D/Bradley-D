@@ -1,7 +1,7 @@
 # It's me Bradley Davis :v: 
 
-## About Me :coffee:
-Most of my free time is spent drinking coffee and riding bikes around the Gold Coast where I live.
+## About Me :coffee: :mountain_bicyclist: :bicyclist: :snowboarder:
+Most of my free time is spent drinking coffee and riding bikes around the Gold Coast where I live or thinking about another snow adventure.
 
 - Software Engineer at [CultureAmp](https://www.cultureamp.com/).
 - Learning not to hate TypeScript.
